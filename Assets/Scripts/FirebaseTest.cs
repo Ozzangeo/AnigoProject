@@ -25,7 +25,7 @@ public class FirebaseTest : MonoBehaviour {
 		WriteUserData(_userIDArray[2], "anigo123");
 		WriteUserData(_userIDArray[3], "defaultUser");
 
-        // ReadUserData();
+        ReadUserData();
     }
 
     public void ReadUserData() {
